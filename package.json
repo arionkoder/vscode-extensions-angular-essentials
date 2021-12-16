@@ -1,19 +1,20 @@
 {
-    "name": "vscode-extensions",
-    "displayName": "VSCode Frontend Extensions",
-    "description": "Essential extensions for frontend developers",
-    "version": "0.0.3",
+    "name": "arionkoder-angular-essentials",
+    "displayName": "ArionKoder Angular Essentials",
+    "description": "ArionKoder's curated extensions for Angular development",
+    "version": "0.0.1",
     "license": "SEE LICENSE IN LICENSE.md",
-    "engines": {
-        "vscode": "^1.8.0"
+    "author": {
+        "email": "nicolasna@arionkoder.com",
+        "name": "Nicolás Naso"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/niconaso/vscode-extensions.git"
     },
-    "icon": "images/icon.png",
+    "icon": "images/arionkoder.jpeg",
     "galleryBanner": {
-        "color": "#00d1b2",
+        "color": "#0b1631",
         "theme": "dark"
     },
     "categories": [
@@ -21,14 +22,8 @@
     ],
     "keywords": [
         "Angular",
-        "Angular 2",
-        "Angular 7",
         "TypeScript",
-        "HTML",
-        "CSS",
-        "Web",
-        "Extensions",
-        "Frontend"
+        "ArionKoder"
     ],
     "publisher": "niconaso",
     "extensionPack": [
@@ -37,37 +32,30 @@
         "christian-kohler.path-intellisense",
         "dbaeumer.jshint",
         "dbaeumer.vscode-eslint",
-        "DotJoshJohnson.xml",
         "eamodio.gitlens",
         "ecmel.vscode-html-css",
         "EditorConfig.EditorConfig",
         "eg2.vscode-npm-script",
         "esbenp.prettier-vscode",
-        "fivethree.vscode-ionic-snippets",
         "formulahendry.auto-rename-tag",
         "ghaschel.vscode-angular-html",
-        "hardikpthv.NgRxSnippets",
         "henoc.svgeditor",
         "HookyQR.beautify",
-        "johnpapa.angular-essentials",
         "johnpapa.Angular2",
         "kisstkondoros.vscode-gutter-preview",
         "lihui.vs-color-picker",
         "mhutchie.git-graph",
         "michelemelluso.code-beautifier",
-        "msjsdiag.debugger-for-edge",
         "nicoespeon.abracadabra",
-        "nrwl.angular-console",
         "obenjiro.arrr",
         "oouo-diogo-perdigao.docthis",
-        "paulhoughton.vscode-jscpd",
         "PKief.material-icon-theme",
         "quicktype.quicktype",
         "rbbit.typescript-hero",
         "richie5um2.vscode-sort-json",
         "sasa.vscode-sass-format",
-        "SumitSaha.learn-with-sumit-theme",
         "vivaxy.vscode-conventional-commits",
-        "waderyan.gitblame"
+        "waderyan.gitblame",
+        "ericliu.coldcode"
     ]
 }
